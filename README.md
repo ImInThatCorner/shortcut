@@ -1,5 +1,5 @@
 # shortcut
-This is a small project I made since I was tired of having to go through multiple folders to open a file repeatedly. In this project, you can set a shortcut to a folder, and when you want to access that folder, you can just write the shortcut's name and the folder will automatically open for you (Only compatible with Windows for now).
+This is a small project I made since I was tired of having to go through multiple folders to open a file repeatedly. In this project, you can set a shortcut to a folder, and when you want to access that folder, you can just write the shortcut's name and the folder will automatically open for you.
 
 ## installation
 1. Download this repo's files
