@@ -14,23 +14,37 @@ In your terminal, type "shortcut help" for the set of commands you can use.
 
 ## commands
 
-####1. [shortcut]
+1. [shortcut]
+
 Open file or folder connected to shortcut.
 
-####2. Add
+
+2. add
+
 Add a new shortcut.
+
 Format: 'shortcut add [name] [address]'. Example: 'shortcut add users C:/Users'.
 
-####3. Modify
+
+3. modify
+
 Modify a shortcut
+
 Format: 'shortcut modify [name] [address]'. Example: 'shortcut modify users C:/Users/ImInThatCorner'.
 
-####4. Delete 
+
+4. delete 
+
 Delete a shortcut
+
 Format: 'shortcut delete [name]'. Example: 'shortcut delete users'.
 
-####5. List
+
+5. list
+
 List all shortcuts.
 
-####6. Help
+
+6. help
+
 Show this index.
