@@ -3,7 +3,7 @@ This is a small project I made since I was tired of having to go through multipl
 
 ## installation
 1. Download this repo's files
-2. Install Ruby if you dont't have it already from http://rubyinstaller.org/downloads/
+2. Install Ruby if you don’t already have it from http://rubyinstaller.org/downloads/
 3. Set a path variable to the folder where you kept these files (here is a good tutorial if you don't know how: http://www.computerhope.com/issues/ch000549.htm)
 4. Rest of steps explained in section 'usage'
 
